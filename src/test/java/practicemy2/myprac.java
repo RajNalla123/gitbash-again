@@ -6,6 +6,9 @@ public class myprac {
 		// TODO Auto-generated method stub
 		System.out.println("my practcicvk");
 System.out.println("nxnmx");
+
+int a=234;
+double b=22.2;
 	}
 
 }
